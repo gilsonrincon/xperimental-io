@@ -1,0 +1,19 @@
+{
+  "name": "xperimental-io",
+  "version": "0.0.1",
+  "description": "Landing web app for the XPerimental IO project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilsonrincon/xperimental-io.git"
+  },
+  "author": "Gilson Rincon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilsonrincon/xperimental-io/issues"
+  },
+  "homepage": "https://github.com/gilsonrincon/xperimental-io#readme"
+}
