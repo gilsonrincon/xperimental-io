@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gilsonrincon/xperimental-io/issues"
   },
-  "homepage": "https://github.com/gilsonrincon/xperimental-io#readme"
+  "homepage": "https://github.com/gilsonrincon/xperimental-io#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
 }
